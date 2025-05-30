@@ -6,4 +6,4 @@ This project focuses on analyzing employee attrition and performance using IBM's
 # About dataset:
 The  dataset is a fictional dataset created by IBM data scientists to analyze workforce dynamics. It contains 1,470 employee records with 35 features, covering attributes such as age, gender, education level, job role, department, monthly income, job satisfaction, work-life balance, and attrition status (whether an employee left the company or stayed).
 
-# Result:
+
